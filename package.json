@@ -1,0 +1,27 @@
+{
+  "name": "ca-module",
+  "version": "0.0.4",
+  "description": "Generates a Clean Architecture module for a React typescript project",
+  "private": false,
+  "files": [
+    "bin/"
+  ],
+  "bin": {
+    "ca": "./bin/cli.js",
+    "ca-module": "./bin/cli.js"
+  },
+  "type": "module",
+  "main": "./bin/cli.js",
+  "scripts": {
+    "upVersion": "npm version patch",
+    "public": "npm run upVersion && npm publish --access public"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.1.4",
+    "title-case": "^3.0.3"
+  }
+}
