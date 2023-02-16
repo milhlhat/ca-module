@@ -1,6 +1,6 @@
 {
   "name": "ca-module",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Generates a Clean Architecture module for a React typescript project",
   "private": false,
   "files": [
@@ -31,5 +31,11 @@
     "architecture",
     "module",
     "ca",
-    "ca-module"]
+    "ca-module"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milhlhat/ca-module"
+  },
+  "homepage": "https://github.com/milhlhat/ca-module#readme"
 }
