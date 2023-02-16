@@ -26,11 +26,13 @@ ca-module
 
 #### `module name`
 > Type: String
+
 > Default: MyModule
 
 
 #### `layers`
 > Type: checkbox
+
 > Default: ["domains", "use-cases", "adapters", "presentations"]
 
 ---

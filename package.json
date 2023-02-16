@@ -23,5 +23,13 @@
     "fs": "^0.0.1-security",
     "inquirer": "^9.1.4",
     "title-case": "^3.0.3"
-  }
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "clean",
+    "architecture",
+    "module",
+    "ca",
+    "ca-module"]
 }
