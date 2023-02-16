@@ -1,6 +1,6 @@
 {
   "name": "ca-module",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Generates a Clean Architecture module for a React typescript project",
   "private": false,
   "files": [
